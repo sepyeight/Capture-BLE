@@ -2,7 +2,7 @@
 
 ## 原因
 
-bleah项目并入了bettercap中，想要了解ble设备的基本信息就需要安全bettercap
+bleah项目并入了bettercap中，想要了解ble设备的基本信息就需要安装bettercap
 * Bluetooth Low Energy devices scanning, characteristics enumeration, reading and writing.
     
 ## 安装bettercap
