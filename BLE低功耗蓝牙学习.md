@@ -1,4 +1,4 @@
-﻿# BLE低功耗蓝牙学习
+﻿# README
 ## 先抓到包：
 1. nRF connect的基本使用</br>
 2. HCI抓包</br>
